@@ -2,6 +2,9 @@
 Buiding the clone of porter.in using HTML CSS and Javascript. Major pages include home page, packers and movers page , For Enterprice page , Driver Partners page
 <h1>Lakme Clone</h1>
 <p>This Project is built using pure JavaScript, CSS and HTML.
+  ## Screenshots
+
+![App Screenshot](https://cdn-images-1.medium.com/max/1000/1*HI8ni2tVI_2XWzIRkn4GCA.png)
 
 
 ## How to run the website?
@@ -45,6 +48,7 @@ Buiding the clone of porter.in using HTML CSS and Javascript. Major pages includ
   <li>Designed Graphics using CSS Animations</li>
  
 </ul>
+![App Screenshot](blob:https://medium.com/60475aae-98ed-4729-b536-14b39090d848)
 
 ## Team Members 
 <ul>
