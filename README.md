@@ -48,7 +48,7 @@ Buiding the clone of porter.in using HTML CSS and Javascript. Major pages includ
   <li>Designed Graphics using CSS Animations</li>
  
 </ul>
-![App Screenshot](https://medium.com/60475aae-98ed-4729-b536-14b39090d848)
+![App Screenshot](https://cdn-images-1.medium.com/max/1500/1*ercV1RwkmEBBkiqU5a9QiA.png)
 
 ## Team Members 
 <ul>
