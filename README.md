@@ -50,7 +50,7 @@ Buiding the clone of porter.in using HTML CSS and Javascript. Major pages includ
 </ul>
 ## Screenshots
 
-![App Screenshot](https://miro.medium.com/max/1400/0*Wsq3z6W2BSp9HWUU.png)
+![App Screenshot](https://miro.medium.com/max/2370/1*ercV1RwkmEBBkiqU5a9QiA.png)
 
 
 ## Team Members 
